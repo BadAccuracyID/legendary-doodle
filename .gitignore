@@ -1,0 +1,8 @@
+.vscode
+.idea
+cmake-build-debug
+cmake-build-release
+*.pdf
+*.exe
+*.zip
+caseFile

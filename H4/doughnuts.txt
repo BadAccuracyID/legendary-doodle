@@ -1,0 +1,4 @@
+APP912;Apple Pie;Delicious apple pie doughnut;Personal;7;1
+BLU874;Blueberry Doughnut;Doughnut with blueberry;Medium;12;41
+CAD128;Cadbury Doughnut;Cadbury will love you;Large;10;2
+KOK587;Kokoro Doughnut;Kokoro with chocolate;Personal;10;5
